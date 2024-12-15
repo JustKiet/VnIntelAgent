@@ -42,6 +42,97 @@ UNSTRUCTURED_API_KEY="..."
 
 ### **2.2. Cấu trúc thư mục**
 
+```
+├───backend
+│   ├───app
+│   │   ├───auth
+│   │   ├───database
+│   │   └───schemas
+│   └───writer_agent
+│       ├───agents
+│       ├───graphs
+│       ├───models
+│       ├───schemas
+│       └───tools
+├───evaluations
+│   ├───Agentic
+│   │   ├───gpt-4o
+│   │   └───gpt-4o-mini
+│   ├───Base
+│   │   ├───gpt-4o
+│   │   └───gpt-4o-mini
+│   ├───Best
+│   │   └───gpt-4o-mini
+│   ├───eval_reports
+│   │   ├───Agentic
+│   │   │   ├───gpt-4o
+│   │   │   │   ├───Topic_1
+│   │   │   │   ├───Topic_2
+│   │   │   │   ├───Topic_3
+│   │   │   │   ├───Topic_4
+│   │   │   │   └───Topic_5
+│   │   │   └───gpt-4o-mini
+│   │   │       ├───Topic_1
+│   │   │       ├───Topic_2
+│   │   │       ├───Topic_3
+│   │   │       ├───Topic_4
+│   │   │       └───Topic_5
+│   │   ├───Base
+│   │   │   ├───gpt-4o
+│   │   │   │   ├───Topic_1
+│   │   │   │   ├───Topic_2
+│   │   │   │   ├───Topic_3
+│   │   │   │   ├───Topic_4
+│   │   │   │   └───Topic_5
+│   │   │   └───gpt-4o-mini
+│   │   │       ├───Topic_1
+│   │   │       ├───Topic_2
+│   │   │       ├───Topic_3
+│   │   │       ├───Topic_4
+│   │   │       └───Topic_5
+│   │   ├───Best
+│   │   │   └───gpt-4o-mini
+│   │   │       ├───Topic_1
+│   │   │       ├───Topic_2
+│   │   │       ├───Topic_3
+│   │   │       ├───Topic_4
+│   │   │       └───Topic_5
+│   │   └───ReAct
+│   │       ├───gpt-4o
+│   │       │   ├───Topic_1
+│   │       │   ├───Topic_2
+│   │       │   ├───Topic_3
+│   │       │   ├───Topic_4
+│   │       │   └───Topic_5
+│   │       └───gpt-4o-mini
+│   │           ├───Topic_1
+│   │           ├───Topic_2
+│   │           ├───Topic_3
+│   │           ├───Topic_4
+│   │           └───Topic_5
+│   ├───GroundTruth
+│   └───ReAct
+│       ├───gpt-4o
+│       └───gpt-4o-mini
+├───evaluation_playground
+├───example
+├───frontend
+│   └───src
+│       └───app
+│           ├───components
+│           │   └───media
+│           │       └───logo
+│           ├───dashboard
+│           ├───editor
+│           ├───fonts
+│           └───profile
+└───writer_agent
+    ├───agents
+    ├───graphs
+    ├───models
+    ├───schemas
+    └───tools
+
 ### **2.3. Chạy thử nghiệm**
 
 Để chạy thử nghiệm sản phẩm, mở file example.ipynb trong thư mục example và làm theo các chỉ dẫn bên trong file.
