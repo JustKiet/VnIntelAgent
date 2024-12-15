@@ -132,6 +132,7 @@ UNSTRUCTURED_API_KEY="..."
     ├───models
     ├───schemas
     └───tools
+```
 
 ### **2.3. Chạy thử nghiệm**
 
