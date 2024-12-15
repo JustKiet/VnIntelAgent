@@ -1,0 +1,8 @@
+{
+    "system": "Base",
+    "model": "gpt-4o-mini",
+    "topic": "Topic_3",
+    "metric": "Relevance",
+    "score": 0.6570703299788286,
+    "reason": "The article closely aligns with the input keyword 'What is Explainable AI (XAI)?' and covers key points like its importance, methodologies, and applications. However, it is shorter than the required 2000 words and lacks some depth in certain areas. The content is mostly relevant but could benefit from more detailed exploration of the topic to meet the word count and depth requirements."
+}

@@ -1,0 +1,8 @@
+{
+    "system": "Agentic",
+    "model": "gpt-4o-mini",
+    "topic": "Topic_1",
+    "metric": "In-depth Analysis",
+    "score": 0.586687582019094,
+    "reason": "The actual output addresses the input keyword and provides relevant information, including definitions and types of SEO content. However, it lacks depth in context and analysis, doesn't reach the 2000-word requirement, and fails to integrate sufficient examples or expert opinions."
+}

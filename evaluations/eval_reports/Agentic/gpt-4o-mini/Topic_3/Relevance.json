@@ -1,0 +1,8 @@
+{
+    "system": "Agentic",
+    "model": "gpt-4o-mini",
+    "topic": "Topic_3",
+    "metric": "Relevance",
+    "score": 0.5153171004232785,
+    "reason": "The article addresses the keyword 'Explainable AI (XAI)' and maintains focus on related topics such as its importance, methods, challenges, and future directions. However, it falls short of the required 2000-word length and lacks some in-depth coverage expected for a fully optimized SEO article as per the input instructions."
+}

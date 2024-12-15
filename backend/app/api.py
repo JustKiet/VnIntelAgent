@@ -55,6 +55,7 @@ async def run_seo_content_generation(task_id: str, data: UserConfig):
         stream_mode="updates"
     ):
         for node, _ in chunk.items():
+            print(node)
             progress += (100 / (len(graph_init.nodes.keys()) - 1))
             data_dict = {
                 "node": str(node),

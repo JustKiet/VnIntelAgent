@@ -46,13 +46,18 @@ const buttonStyle = {
 }
 
 export default function Sidebar() {
+
+  const handleHomeRedirect = () => {
+    window.location.href = '/';
+  }
+
   return (
     <Drawer sx={{ display: 'flex', alignItems: 'center', justifyContent: 'center', width: drawerWidth, flexShrink: 0, '& .MuiDrawer-paper': { width: drawerWidth, boxSizing: 'border-box' } }} variant="permanent" anchor="left">
       <List sx={{display: 'flex', justifyContent: 'center', flexDirection: 'column', height: "100%"}}>
         <Divider />
         <ListItem style={ listItemStyle }>
           <Tooltip slotProps={{ tooltip: {sx: {backgroundColor: grey[800], fontSize: 20 }}}} title="Trang chủ" placement='right' TransitionComponent={Zoom} leaveDelay={200}>
-            <Button sx={ buttonStyle }>
+            <Button sx={ buttonStyle } onClick={handleHomeRedirect}>
               <HomeOutlinedIcon style={ iconStyle }/>
             </Button>
           </Tooltip>

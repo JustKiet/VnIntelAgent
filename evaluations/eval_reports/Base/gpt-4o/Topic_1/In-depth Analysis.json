@@ -1,0 +1,8 @@
+{
+    "system": "Base",
+    "model": "gpt-4o",
+    "topic": "Topic_1",
+    "metric": "In-depth Analysis",
+    "score": 0.6678767667584032,
+    "reason": "The actual output introduces and defines the input keyword 'What is SEO Content?' effectively and provides comprehensive details on types, importance, and best practices. However, it falls short of the required word count of 2000 words and lacks specific examples or evidence to support the analysis. Additionally, while the content aligns well with the keyword and context, it could include more detailed insights and examples to fully meet the criteria."
+}

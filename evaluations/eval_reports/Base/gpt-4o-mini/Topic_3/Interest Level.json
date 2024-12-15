@@ -1,0 +1,8 @@
+{
+    "system": "Base",
+    "model": "gpt-4o-mini",
+    "topic": "Topic_3",
+    "metric": "Interest Level",
+    "score": 0.6500348937665426,
+    "reason": "The article is informative and well-structured, covering the topic of Explainable AI with clear language and relevant sections. However, it falls short of the 2000-word requirement, missing depth in areas like challenges and future directions. The context aligns well with the content, but additional examples and elaboration could enhance engagement and understanding."
+}

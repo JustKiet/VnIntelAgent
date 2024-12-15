@@ -1,0 +1,8 @@
+{
+    "system": "Base",
+    "model": "gpt-4o",
+    "topic": "Topic_3",
+    "metric": "Interest Level",
+    "score": 0.5679151574192324,
+    "reason": "The article addresses the topic of Explainable AI (XAI) with relevant content and a clear structure, covering key aspects such as importance, methodologies, applications, challenges, and future trends. However, it only contains 1073 words, falling short of the required 2000 words. The language is professional and coherent with the context, but the incomplete word count significantly impacts its thoroughness and depth."
+}

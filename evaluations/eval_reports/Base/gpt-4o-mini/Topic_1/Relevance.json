@@ -1,0 +1,8 @@
+{
+    "system": "Base",
+    "model": "gpt-4o-mini",
+    "topic": "Topic_1",
+    "metric": "Relevance",
+    "score": 0.6379329955900475,
+    "reason": "The article addresses 'What is SEO Content?' and covers relevant aspects like types and best practices. However, it is only 1383 words, falling short of the 2000-word requirement. The content aligns with the context but lacks depth to fully expand on the keyword as specified."
+}

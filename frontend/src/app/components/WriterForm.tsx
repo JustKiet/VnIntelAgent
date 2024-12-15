@@ -90,6 +90,7 @@ export default function WriterForm() {
                 eventSource.onmessage = (event) => {
 
                     const data = event.data;
+                    console.log(data);
                 
                     const parsedData: { 
                         node?: keyof typeof nodeValue, 

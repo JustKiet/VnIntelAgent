@@ -1,0 +1,8 @@
+{
+    "system": "Best",
+    "model": "gpt-4o-mini",
+    "topic": "Topic_3",
+    "metric": "Relevance",
+    "score": 0.9731058586494482,
+    "reason": "The article prominently features the keyword 'Explainable AI (XAI)' throughout the text, aligning with the input request. All sections are directly related to the keyword, with no unrelated diversions. The article maintains a strong focus on the topic, following the context provided, and meets the criteria outlined in the evaluation steps."
+}

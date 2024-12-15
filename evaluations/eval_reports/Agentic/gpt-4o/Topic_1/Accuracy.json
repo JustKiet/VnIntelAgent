@@ -1,0 +1,8 @@
+{
+    "system": "Agentic",
+    "model": "gpt-4o",
+    "topic": "Topic_1",
+    "metric": "Accuracy",
+    "score": 0.45844563057216003,
+    "reason": "The article covers key aspects of SEO content and aligns with the context in explaining what SEO content is and its types. However, it is significantly shorter than the required 2000 words and lacks a detailed SEO content strategy section present in the context. It also does not fully adhere to the specific instruction of being longer than 2000 words, resulting in a lower score."
+}

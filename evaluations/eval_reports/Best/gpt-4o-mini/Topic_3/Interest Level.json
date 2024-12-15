@@ -1,0 +1,8 @@
+{
+    "system": "Best",
+    "model": "gpt-4o-mini",
+    "topic": "Topic_3",
+    "metric": "Interest Level",
+    "score": 0.8912981185122886,
+    "reason": "The Input topic is highly relevant and engaging for an expert SEO content writer, focusing on Explainable AI (XAI). The Actual Output provides a comprehensive and coherent article exceeding the 2000-word requirement, maintaining clarity and readability with a professional tone. The Context supports the Input by detailing XAI's importance, challenges, and applications, enhancing understanding. The article fulfills its purpose by thoroughly covering the topic while maintaining user interest throughout."
+}

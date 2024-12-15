@@ -1,0 +1,8 @@
+{
+    "system": "Agentic",
+    "model": "gpt-4o",
+    "topic": "Topic_1",
+    "metric": "Relevance",
+    "score": 0.6372303324177835,
+    "reason": "The article's main topic aligns well with the keyword 'What is SEO Content?' and maintains focus throughout, with relevant sections about SEO content types and strategies. However, the word count is only 994 words, not meeting the 2000 words requirement, which impacts completeness."
+}

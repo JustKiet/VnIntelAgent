@@ -1,0 +1,8 @@
+{
+    "system": "ReAct",
+    "model": "gpt-4o-mini",
+    "interest": 0.5532527083047205,
+    "accuracy": 0.45746827783335586,
+    "in_depth": 0.6508530363514302,
+    "relevance": 0.5944911618429836
+}

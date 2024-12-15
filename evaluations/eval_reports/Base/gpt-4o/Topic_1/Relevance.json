@@ -1,0 +1,8 @@
+{
+    "system": "Base",
+    "model": "gpt-4o",
+    "topic": "Topic_1",
+    "metric": "Relevance",
+    "score": 0.6311504811419258,
+    "reason": "The article contains the keyword and focuses on related topics, but it is only 1157 words long, failing to meet the 2000-word requirement. The content is coherent and mostly relevant, but it lacks the depth expected for a complete guide as per the context."
+}

@@ -1,0 +1,8 @@
+{
+    "system": "Base",
+    "model": "gpt-4o",
+    "topic": "Topic_1",
+    "metric": "Interest Level",
+    "score": 0.6042276392527602,
+    "reason": "The actual output aligns with the input topic and user interests, providing a comprehensive overview of SEO content. It is clear and readable, engaging with relevant information. However, it falls short of the required 2000-word length and does not fully utilize the context provided, missing some detailed strategy insights."
+}

@@ -1,0 +1,8 @@
+{
+    "system": "Best",
+    "model": "gpt-4o-mini",
+    "topic": "Topic_1",
+    "metric": "Relevance",
+    "score": 0.9623179672043036,
+    "reason": "The keyword 'What is SEO Content?' is prominently featured throughout the output. Each section directly relates to the keyword, covering aspects like importance, characteristics, types, and strategies for SEO content. There are no unrelated sections, and the context aligns perfectly with the output, enhancing understanding without deviation."
+}

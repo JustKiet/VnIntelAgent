@@ -1,0 +1,8 @@
+{
+    "system": "Agentic",
+    "model": "gpt-4o-mini",
+    "topic": "Topic_3",
+    "metric": "Interest Level",
+    "score": 0.4444736031965351,
+    "reason": "The article is relevant and appealing to the target audience, maintaining engagement with clear language and coherent storytelling about Explainable AI (XAI). However, it falls short in word count (1008 words), not meeting the 2000-word requirement, thus limiting its comprehensive value as expected in the context. The structure is well-organized, but the lack of depth affects the score."
+}

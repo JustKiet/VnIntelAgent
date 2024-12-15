@@ -1,0 +1,8 @@
+{
+    "system": "Base",
+    "model": "gpt-4o-mini",
+    "topic": "Topic_1",
+    "metric": "In-depth Analysis",
+    "score": 0.7026066596242864,
+    "reason": "The output partially addresses the keyword by defining SEO content and its importance, but lacks comprehensive coverage and detailed insights expected for a full 2000-word article. The article does not reach the required word count and misses some aspects like YMYL considerations. Contextual alignment is moderate, but not exhaustive."
+}

@@ -1,0 +1,8 @@
+{
+    "system": "Agentic",
+    "model": "gpt-4o-mini",
+    "topic": "Topic_2",
+    "metric": "Interest Level",
+    "score": 0.6680961784451813,
+    "reason": "The Actual Output provides a clear topic and engaging content about AI agents, maintaining interest with headings and structured sections. However, it does not meet the required 2000-word count, reaching only 1159 words, and lacks alignment with the detailed Context provided, which covers more technical aspects and types of AI agents."
+}

@@ -1,0 +1,8 @@
+{
+    "system": "Agentic",
+    "model": "gpt-4o-mini",
+    "topic": "Topic_1",
+    "metric": "Relevance",
+    "score": 0.6641716711901382,
+    "reason": "The article addresses the keyword 'What is SEO Content?' and relates to the topic. However, it is only 1123 words, failing to meet the 2000-word requirement. The content largely stays relevant but lacks depth in some areas compared to the context provided."
+}

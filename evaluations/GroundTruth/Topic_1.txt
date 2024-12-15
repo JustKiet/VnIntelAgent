@@ -1,0 +1,58 @@
+What Is SEO Content? A Guide to Creating Content for SEO
+If you’re relatively new to the world of search marketing, you may have heard the term “SEO content” being thrown around in marketing meetings.
+This beginner’s guide is designed to answer three questions:
+1.	What is SEO content?
+2.	What types of SEO content are there?
+3.	How to develop an SEO content strategy
+If you have any questions about strategies for SEO content creation that I don’t answer here, let me know in the comments and I’ll answer them here or in a future blog post.
+Let’s get started!
+What is SEO content?
+To understand what marketers mean by SEO content, it’s helpful to break down the phrase into its component parts:
+•	“SEO” refers to search engine optimization, or the process of optimizing a website so that people can easily find it via search engines like Google.
+•	By “content,” we mean any information that lives on the web and can be consumed on the web (more on the various types of content below).
+So, putting these two concepts together: SEO content is any content created with the goal of attracting search engine traffic.
+I’m not going to tell you everything you need to know about optimizing your content for search engines here; that’s a whole ‘nother guide. But here’s a super-quick refresher on what you’ll need to do in order to SEO your web content:
+•	Keyword research: If you want to generate traffic through search, it’s best to do keyword research before you start writing. This way, you can focus on keywords for which a certain amount of search volume already exists – in other words, write toward topics (or find keyword niches!) that people are already searching for information about.
+•	Keyword optimization: Know where and how to use keywords in your content for maximum searchability. (Learn more in our complete guide to on-page SEO).
+•	Content organization: The content on your site should be organized in a logical way. This is not only good for SEO, it also helps visitors on your site find other related content easily. (The longer they stay on your site, the better.)
+•	Content promotion: Increase visibility to new content you create by sharing it on social networks and building links to your content (both internally and from external sites).
+A quick word on intentions
+It’s important to keep in mind that if search engine traffic is your only goal, your results will probably suffer. In order to please both the search engines (who will reward you with high rankings over time) and potential customers and return visitors, you need to offer value above and beyond search engine optimization. In other words, don’t produce “thin” content that ranks and get clicks, but doesn’t provide any additional value to the search engine user. Sites that promote “thin,” low-value content run the risk of being penalized by Google; they also tend to have high bounce rates and low conversion rates.
+Types of SEO content
+SEO content can include any of the following:
+•	Product pages – These are the bread and butter of any retail e-commerce site. A good product page can serve as both SEO content and a PPC landing page.
+•	Blog posts – A blog is one of the easiest ways to create a regular stream of effective SEO content. In general, blog posts are more engaging and more likely to attract links than product pages, so they can be a great way to build some authority for your site. Keep in mind that blogs are very flexible, and you can use them to host any of the below types of content in this list.
+•	Articles – Think news article, interview, or feature piece. This is the main kind of content you’ll find on most newspaper- or magazine-style websites.
+•	Lists – A list is really just a kind of article, but framing it as a list (such as “10 Ways to Lower Your Energy Bill” or “101 Things I Hate About Google”) makes it easier to scan. These types of titles also seem to be more clickable when found in search results or in social media feeds. And social signals do impact SEO.
+•	Guides – A guide is a longer piece of content that explains in detail how to do something. (Guides are often broken up onto multiple web pages, though it’s a best practice to allow users to view long content as a single page if they wish.) You can post a full guide on your website, or you can post a summary or excerpt, requiring visitors to fill out a registration form to read the full guide. This can be a good way to generate leads, but keep in mind that putting up a registration wall will likely reduce the amount of SEO traffic you can drive to that guide.
+•	Videos – In general there are fewer videos on the web than pages of text; consequently, it can be easier to rank on the first page for a competitive keyword by creating a video instead of an article. Depending on what type of site or business you run, videos can be a great way to attract and reach an audience. Consider creating video tutorials of how to use your products. Or illustrate a process that is related to your business – for example, a plumber could make a video showing how to unclog a sink. (A note on SEO: You might consider including a text transcript of your video. Here are some additional tips for optimizing videos.)
+•	Infographics – Infographics, or large-format images that contain a lot of data (often in the form of graphs or charts) on a single subject, can rack up a lot of page views and links. However, because so much of the content is embedded in the image and therefore not readable as text by search engines, it’s important to carefully optimize the rest of the page. You can use one of these five free infographic templates to get started.
+•	Slideshows – A slideshow is a way to display a series of related images. Sometimes pictures are more important than text – say you’re trying to show what all the stars wore to the Oscars. Here again, SEO of your title, captions, image file names and so on is important because there is less for the search engines to “read.”
+•	Glossaries – I swear more people use Google to look up terms than they use a dictionary. (Do you even know where your dictionary is?) If you work in a specialized industry, a well built-out glossary can be a good way to capture some search traffic. Think cooking terms, medical terms, fashion terms, architectural terms …
+•	Directories – A directory is a useful taxonomy of links to sites or resources around a given topic. For example, a perfume blog might create a directory of places to buy perfume, from major department stores to independent shops around the country.
+These are just some of the basic types of SEO content, but don’t let this list limit you – the possibilities are virtually endless.
+How to Develop an SEO Content Strategy
+If you’ve been producing content in a haphazard manner, hoping and praying that some of it eventually ranks, it’s time to buckle down and commit to a more methodical SEO content strategy for the web.
+Here are four steps to defining and refining your SEO content strategy:
+Define your goals
+First, determine your goals as a website or business. Are you looking to drive sales through your website? Do you monetize your site via ads and therefore just want to increase traffic and return readership? Your goals will determine what types of content you should focus on.
+A great example of a minimal, yet sleek and elegant, product page
+If you’re primarily trying to drive product sales, your primary focus should be attractive, informative product pages that are optimized for both search and conversions. Your secondary focus could be helpful blog content that illustrates when and how to use your products, linking to those pages where relevant (it’s best if your blog is not entirely self-promotional, though).
+If your site operates on an advertising model and the goal is to attract new readers through search, you’ll want to focus on rich content (such as long-form articles or video resources that are informative, entertaining or both) with “stickiness” (“sticky” content keeps visitors on your site longer or encourages them to return).
+Consider your audience
+Know your audience – surveys and your analytics software can help you get a better picture of your typical visitor or client. Consider developing marketing personas, or characters that represent your ideal site visitors and customers. Then think about what kinds of content those personas would be looking for.
+
+For example, if you operate a B2B website that targets C-level executives, you might want to create high-level white papers that can be downloaded and saved to read later.
+If your business targets teens and tweens, you might want to focus on frequent updates with less text and more images and video. You’ll also want to be sure your site is optimized for mobile usage.
+Create an editorial calendar
+Once you have an idea of who you are targeting and why, you can start to build out an editorial calendar. An editorial calendar is a schedule that dictates when you will publish new content and what type of content it will be. This will help you stick to a regular schedule (it’s especially important to create new content on a regular basis if you have a blog), as well as prevent you from scrambling to come up with a topic for new content at the last minute.
+A few tips for creating and adhering to an editorial calendar:
+•	Use Outlook (or Google Calendar) – Share the editorial calendar with your whole marketing team. Set up reminders for authors so they get a notification when a deadline is coming up.
+•	Consider creating ongoing features – For example, a food blog might do a meatless recipe every Monday. Many blogs do link roundups once per week (including this one). Create a category page for each ongoing feature, so visitors can find all of your Meatless Monday recipes or link roundups in one place.
+•	Give yourself plenty of lead time when producing more complicated types of content, such as videos and infographics. These often need multiple rounds of edits to perfect and can be more complicated to optimize for search.
+•	Don’t plan too far out in advance – Calendars often get derailed after a month or two, due to changes in marketing goals, budgets, or staff, so don’t try to plan out a schedule for the next year and risk wasting a lot of time and effort.
+Analyze and re-assess
+Finally, stay on top of your site’s analytics. Regularly analyze your SEO content through both content audits and SEO audits (or even a whole dang site audit) to see what’s working and what isn’t. There are plenty of tools and website graders to help with this. Good measures of success and engagement include page views, links, comments (on blog posts and some other types of content), social shares (Facebook likes, tweets, etc.), and conversion rates. Your analysis should have two goals:
+•	Study your successes so you can repeat those strategies – Look for patterns. Does your audience love videos? Then make more videos! Adjust your editorial calendar going forward so you can focus more time and effort on the content types that really resonate.
+•	Carve out time for updating and improving older SEO content – If you tried to optimize an article for a certain keyword, but it’s getting more traffic for a different variation of that keyword, then go back in and re-optimize it for the new keyword. You might be able to significantly increase traffic by putting that keyword in the title, for example.
+•	Keep your site in check: It’s important to regularly assess your website, both as a whole and with individual pages, t make sure it’s optimized for Google and search engines. To get started, use our free website grader for an instant SEO and online presence audit.

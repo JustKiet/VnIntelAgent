@@ -1,0 +1,8 @@
+{
+    "system": "Agentic",
+    "model": "gpt-4o",
+    "topic": "Topic_3",
+    "metric": "Relevance",
+    "score": 0.7537626605530717,
+    "reason": "The article comprehensively addresses the keyword 'Explainable AI (XAI)' with well-structured sections covering its importance, methods, challenges, and future prospects. All sections are relevant and focused on the topic, with no unrelated information present. However, the article is slightly below the 2000-word requirement."
+}

@@ -1,0 +1,8 @@
+{
+    "system": "Agentic",
+    "model": "gpt-4o-mini",
+    "topic": "Topic_2",
+    "metric": "Relevance",
+    "score": 0.6671019809171332,
+    "reason": "The output effectively covers key aspects of AI agents including their definition, characteristics, types, and applications, aligning well with the input keyword. However, it falls short of the required 2000 words, missing some depth and detail that could further enhance its completeness and adherence to SEO criteria. Despite this, the article maintains focus on the topic without veering off into unrelated areas."
+}

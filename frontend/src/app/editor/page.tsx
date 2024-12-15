@@ -2,7 +2,7 @@
 
 import '@mdxeditor/editor/style.css'
 import { ForwardRefEditor } from '../components/ForwardRefEditor';
-import { Box } from '@mui/material';
+import { Box, Chip, Tooltip } from '@mui/material';
 import { useEffect, useState } from 'react';
 import { createTheme, responsiveFontSizes, ThemeProvider } from '@mui/material/styles';
 import Typography from "@mui/material/Typography";
@@ -24,6 +24,16 @@ function ArticleEditor() {
     const [wordCount, setWordCount] = useState(0);
     const [content, setContent] = useState('');
     const [description, setDescription] = useState('');
+    const [keywords, setKeywords] = useState([]);
+    const [copiedText, setCopiedText] = useState('');
+    const [openTooltip, setOpenTooltip] = useState(false);
+
+    const handleCopy = (keyword: string) => () => {
+        navigator.clipboard.writeText(keyword);
+        setCopiedText(keyword);
+        setOpenTooltip(true);
+        setTimeout(() => setOpenTooltip(false), 1000);
+    };
 
     const handleTextChange = (e: string) => {
         setContent(e);
@@ -50,6 +60,9 @@ function ArticleEditor() {
                     console.log(data);
                     const article = data.article
                     const description = data.description
+                    const keywords = data.keywords["keywords"]
+                    setKeywords(keywords)
+
                     console.log(description);
                     setDescription(description);
                     setContent(article);
@@ -98,7 +111,7 @@ function ArticleEditor() {
                                 <Box sx={{ display: 'flex', height: '100%', width: '100%', alignItems: 'center', justifyContent: 'center', flexDirection: 'column' }}>
                                     <Box sx={{ display: 'flex', width: '90%', alignItems: 'center', justifyContent: 'start'}}>
                                         <ThemeProvider theme={theme}>
-                                            <Typography variant='subtitle2' style={{ fontWeight: 600, color: '' }}>
+                                            <Typography variant='h6' style={{ fontWeight: 600, color: '' }}>
                                                 Mô tả:
                                             </Typography>
                                         </ThemeProvider>
@@ -113,7 +126,50 @@ function ArticleEditor() {
                                     />
                                 </Box>
                             </Box>
-                            <Box sx={{ display: 'flex', height: '7%', width: '100%', alignItems: 'center', justifyContent: 'center' }}>
+                            <Box sx={{ display: 'flex', height: '400px', width: '100%', alignItems: 'center', justifyContent: 'start', flexDirection: 'column' }}>
+                                <Box sx={{ display: 'flex', width: '90%', alignItems: 'center', justifyContent: 'start'}}>
+                                    <ThemeProvider theme={theme}>
+                                        <Typography variant='h6' style={{ fontWeight: 800 }} gutterBottom>
+                                            Từ khóa liên quan:
+                                        </Typography>
+                                    </ThemeProvider>
+                                </Box>
+                                <Box
+                                    sx={{
+                                        display: "flex",
+                                        flexWrap: "wrap",
+                                        gap: 1,
+                                        maxHeight: "380px",  // Set max height
+                                        overflowY: "auto",  // Enable scrolling if content overflows
+                                        p: 2,
+                                        bgcolor: "background.paper",
+                                        borderRadius: 2,
+
+                                        // Custom Scrollbar styles
+                                        "&::-webkit-scrollbar": {
+                                        width: "8px",  // Width of the scrollbar
+                                        },
+                                        "&::-webkit-scrollbar-thumb": {
+                                        backgroundColor: "#888",  // Color of the scrollbar thumb
+                                        borderRadius: "10px",  // Round the edges of the thumb
+                                        "&:hover": {
+                                            backgroundColor: "#555",  // Hover color of the thumb
+                                        },
+                                        },
+                                        "&::-webkit-scrollbar-track": {
+                                        backgroundColor: "#f1f1f1",  // Color of the scrollbar track
+                                        borderRadius: "10px",  // Round the edges of the track
+                                        },
+                                    }}
+                                    >
+                                    {keywords.map((keyword: string, index: number) => (
+                                        <Tooltip title='Copied to Clipboard!' placement='top' open={openTooltip && copiedText === keyword} key={index} arrow>
+                                            <Chip key={index} label={keyword} onClick={handleCopy(keyword)}/>
+                                        </Tooltip>
+                                    ))}
+                                </Box>
+                            </Box>
+                            <Box sx={{ display: 'flex', height: '10%', width: '100%', alignItems: 'center', justifyContent: 'center' }}>
                                 <Button variant='contained' onClick={ handleCopyAsHTML } sx={{ width: '90%' }}>
                                     Copy as HTML
                                 </Button>
