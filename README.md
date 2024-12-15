@@ -40,7 +40,7 @@ TAVILY_API_KEY="..."
 UNSTRUCTURED_API_KEY="..."
 ```
 
-### **2.2. Cấu trúc thư mục**
+## **2. Cấu trúc thư mục**
 
 ```
 ├───backend
@@ -134,6 +134,6 @@ UNSTRUCTURED_API_KEY="..."
     └───tools
 ```
 
-### **2.3. Chạy thử nghiệm**
+## **3. Chạy thử nghiệm**
 
 Để chạy thử nghiệm sản phẩm, mở file example.ipynb trong thư mục example và làm theo các chỉ dẫn bên trong file.
